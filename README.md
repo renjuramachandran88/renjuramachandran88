@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @renju menon r
+- 👋 Hi, I’m Renju
 - 👀 I’m interested in Android, iOS and Backend using Spring Boot
 - 🌱 I’m currently learning Node.js
 ...
